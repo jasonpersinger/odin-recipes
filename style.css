@@ -1,0 +1,15 @@
+.title {
+    color: rgb(65, 58, 58);
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+ul { 
+    color: lightslategray;
+    font-size: 55px;
+    font-weight:  800;
+    text-align: center;
+    list-style: inside;
+}
+
