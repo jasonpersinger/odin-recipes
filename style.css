@@ -2,16 +2,18 @@
     display: flex;
     align-content: center;
     align-items: center;
-    background: blanchedalmond;
-    color: rgb(65, 58, 58);
+    background: rgb(79, 131, 118);
+    color: black;
     font-size: 75px;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    text-align: right;
     align-content: center;
     align-items: center;
     width: auto;
     height: auto;
-    border: 3px solid green;
+    border: 6px solid black;
+    justify-content: center;
+   
 }
 
 ul { 
@@ -20,6 +22,8 @@ ul {
     font-weight:  800;
     text-align: center;
     list-style: inside;
+    list-style-type: none;
+
 }
 
 .box {
@@ -30,5 +34,15 @@ ul {
     align-items: center;
     width: auto;
     height: auto;
+    justify-content: center;
 
 }
+
+.item {
+    width: auto;
+    height: auto;
+    border: 5px solid black;
+    padding: 5px;
+    margin: 12px;
+}
+
